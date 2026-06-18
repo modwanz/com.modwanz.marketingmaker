@@ -9,10 +9,10 @@ Modwanz TuBee watch videos without logging in, manage playlists, and enjoy backg
 ## Releases
 See the following release notes for details.
 
-**Lastest Release: [1.01.44 - modwanz](#)**
+**Lastest Release: [48.0 - modwanz](#)**
 
 
-**Important Releases: [1.01.43 - modwanz](#), [1.01.44 - modwanz](#)**
+**Important Releases: [47.0 - modwanz](#), [48.0 - modwanz](#)**
 
 
 <p align="center">
