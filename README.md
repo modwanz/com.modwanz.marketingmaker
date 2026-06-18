@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Modwanz%20TuBee.png" alt="Background Remover" width="180" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Modwanz%20Maker.png" alt="Background Remover" width="180" />
 <h1>Modwanz Maker</h1>
   
 </div>
