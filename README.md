@@ -33,13 +33,18 @@ See the following release notes for details.
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee1.webp" width="45%" />
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee2.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/mm1.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/mm2.webp" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee3.webp" width="45%" />
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee4.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/mm3.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/mm4.webp" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/mm5.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/mm6.webp" width="45%" />
 </p>
 
 
